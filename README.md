@@ -8,3 +8,12 @@
 count_characters("Hello")  # 5
 count_characters("")       # 0
 count_characters("12345")  # 5
+
+---
+
+### 🧠 `main.py`
+Создай файл `main.py` и вставь это:
+```python
+def count_characters(text: str) -> int:
+    # Напиши свой код здесь
+    return 0
